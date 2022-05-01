@@ -1,0 +1,27 @@
+Ágil >> A cada parte executa-se em um ciclo (interativo)
+
+SCRUM (30 dias)
+
+Ágia != rápido
+	- Rapidez na mudança
+	- Coisas complexas de forma simples
+
+Pilares:
+	Transparencia, 
+	adaptação e 
+	Inspeção
+
+	-- Desenvolvimento e entrega em partes menores (2 a 4 semanas)
+	-- Melhor gerenciamento de riscos
+	-- Daily meeting
+	-- Priorização Backlog
+
+Minimum Viable Product (MVP)
+	Product Ow0ner (PO)
+	SCRUM Master (SM)
+	Time Dev (TD)
+
+Backlog:
+	Épicos: Incremento sem muito detalhe
+	Estória: Detalhamento dos épicos
+	Atividade: Tarefas a serem executadas
